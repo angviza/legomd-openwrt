@@ -24,7 +24,7 @@ on:
     branches:
       - master
     paths:
-      - 'x86.config'
+      - 'x86.config.more'
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
